@@ -2,7 +2,7 @@
 
 ---
 
-### Hi, I'm Dylan! <img align=center src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f410/512.gif" width="32" height="32">
+### Hi, I'm Dylan! <img align=center src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32">
 
 ---
 
