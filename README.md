@@ -1,4 +1,4 @@
-<img align=right src="https://giphy.com/gifs/bear-salmon-Osub6rry9Pu2k" alt="Bjørn" width="196" height="147" />
+<img align=right src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeW11d2pmemIxeTI4N2t2MDhyMGdrZzdmbmJoa2JjbHUzazhybW1hNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Osub6rry9Pu2k/giphy.gif" alt="Bjørn" width="196" height="147" />
 
 
 ---
