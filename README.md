@@ -3,7 +3,7 @@
 
 ---
 
-Sir, permission to expire, sir!
+👋
 
 https://dyluc.me/binhex/
 
