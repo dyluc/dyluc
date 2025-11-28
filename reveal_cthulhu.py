@@ -25,8 +25,8 @@ if __name__ == "__main__":
     frame_index = day - 1
 
     crossfade(
-        img_a_path="cthulhu1.png",
-        img_b_path="cthulhu2.png",
+        img_a_path="cthulhu1banner.png",
+        img_b_path="cthulhu2banner.png",
         frame_index=frame_index,
         total_frames=total_days,
         output_path="frame.png"
