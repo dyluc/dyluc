@@ -31,5 +31,5 @@ jobs:
           git config --local user.email "commit-sapien[bot]@github.com"
           git config --local user.name "commit-sapien[bot]"
           git add frame.png
-          git diff --staged --quiet || git commit -m "Update generated image [skip ci]"
+          git diff --staged --quiet || git commit -m "Update generated image"
           git push
