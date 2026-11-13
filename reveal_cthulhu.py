@@ -2,6 +2,9 @@ from PIL import Image
 from datetime import datetime
 import numpy as np
 import calendar
+import sys
+
+GD_BYPASS=True
 
 def crossfade(img_a_path, img_b_path, frame_index, total_frames, output_path):
     a = Image.open(img_a_path).convert("RGBA")
@@ -18,6 +21,10 @@ def crossfade(img_a_path, img_b_path, frame_index, total_frames, output_path):
     frame.save(output_path)
 
 if __name__ == "__main__":
+
+    if GD_BYPASS:
+        sys.exit(0)
+    
     today = datetime.today()
     year, month, day = today.year, today.month, today.day
 
