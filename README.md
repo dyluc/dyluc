@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dyluc/dyluc/refs/heads/master/frame.png" alt="Cthulhu" />
+<img src="https://raw.githubusercontent.com/dyluc/dyluc/refs/heads/master/gd-skeletons-1.png" alt="Cthulhu" />
 
 ---
 
